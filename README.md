@@ -26,7 +26,7 @@ pip install -r requirements.txt
 1. Run the bot script:
 
 ```
-python bot.py
+python bot_local.py
 ```
 
 ## Usage
