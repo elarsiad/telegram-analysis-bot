@@ -1,4 +1,4 @@
-# Telegram-Analysis-Bot
+# Telegram Analysis Bot
 
 Telegram-Analysis-Bot is a comprehensive Telegram bot designed to perform data analysis and visualization on advertising campaign data.
 
